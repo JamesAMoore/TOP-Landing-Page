@@ -151,10 +151,11 @@ h2 {
     flex-direction: column;
     margin: 75px auto;
     max-width: 80ch;
+    padding-bottom: 50px;
 }
 
 .section-3 {
-    background-color: #e5e7eb;
+    background-color: rgb(255, 254, 254);
 }
 
 div.quote-container > p:first-child {
